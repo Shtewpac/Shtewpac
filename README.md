@@ -16,12 +16,23 @@ Hello! I'm Will Kraft, a recent graduate from the University of Massachusetts Am
 
 ## 💻 Technical Skills
 
-- **Languages:** C, C++, Python, Java, JavaScript
+- **Programming Languages:** Python, Java, JavaScript, C++, C#
+- **Data Structures and Algorithms:** Proficiency in core data structures and algorithms (arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, recursion)
+- **Object-Oriented Programming (OOP):** Inheritance, polymorphism, encapsulation
+- **Database Management Systems:** SQL, NoSQL (e.g., MongoDB, Cassandra)
+- **Web Development:** HTML, CSS, JavaScript frameworks (React, Angular, Vue), backend frameworks (Node.js, Django, Ruby on Rails)
+- **Version Control:** Git
+- **Software Development Lifecycle (SDLC):** Agile, Scrum, Waterfall
+- **Testing and Debugging:** Unit testing, integration testing, debugging tools
+- **Cloud Platforms:** AWS, Azure, GCP
 - **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras
-- **Computer Vision:** OpenCV, SimpleCV, BoofCV, CAFFE, OpenVINO, DeepFace, YOLO
-- **Development:** Docker, Git, SQL, MATLAB
-- **Software:** MS Office Suite, Adobe Creative Suite, SolidWorks, DaVinci Resolve
-
+- **Computer Vision:** OpenCV, DeepFace, YOLO
+- **Development:** Docker, Git, SQL
+- **Mobile Development:** iOS (Swift), Android (Kotlin/Java)
+- **DevOps:** CI/CD pipelines, containerization (Docker), infrastructure as code
+- **Data Science:** Python libraries (NumPy, Pandas, Matplotlib, Scikit-learn)
+- **Machine Learning:** Algorithms and frameworks (TensorFlow, PyTorch)
+  
 ## 🚀 Professional Experience
 
 ### Story Bard Co-founder and Senior Engineer (March 2023 - May 2024)
